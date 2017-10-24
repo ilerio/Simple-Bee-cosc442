@@ -1,0 +1,258 @@
+#SAY.fc_learn.9.Papa Bear
+To win the spelling bee you have to spell 3 words correctly in a row. We will learn 10 words now that will be in the spelling bee.
+
+#SAY.fc_learn.6.Papa Bear
+This is how you spell "CUP"... C... U... P
+
+#SAY.fc_learn.16.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.40.Papa Bear
+This is how you spell "HUT"... H... U... T
+
+#SAY.fc_learn.37.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.39.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.65.
+This is how you spell "RAT"... R... A... T
+
+#SAY.fc_learn.99.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.101.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.103.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.200.
+This is how you spell "OWL"... O... W... L
+
+#SAY.fc_learn.201.
+This is how you spell "SUN"... S... U... N
+
+#SAY.fc_learn.202.
+This is how you spell "HAT"... H... A... T
+
+#SAY.fc_learn.203.
+This is how you spell "LOG"... L... O... G
+
+#SAY.fc_learn.204.
+This is how you spell "BED"... B... E... D
+
+#SAY.fc_learn.205.
+This is how you spell "ICE"... I... C... E
+
+#SAY.fc_learn.206.
+This is how you spell "SAW"... S... A... W
+
+#SAY.fc_learn.161.Papa Bear
+Good job! Now you are ready for the spelling bee!
+
+#SAY.fc_learn.195.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.197.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.199.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.235.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.237.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.239.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.250.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.270.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.272.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.320.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.322.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.324.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.353.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.355.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.357.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.386.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.388.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.390.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.419.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.421.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.423.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.452.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.454.Papa Bear
+That's not quite right try again.
+
+#SAY.fc_learn.456.Papa Bear
+That's not quite right try again.
+
+#CHARACTER.Pigme
+Pigme
+
+#SAY.Flowchart.9.
+In order for you to win the spelling bee you have to spell 10 words correctly. We will learn those words now. At the end there will be a test if you can spell all the words you will be ready for the spelling bee!
+
+#SAY.Flowchart.206.
+This is how you spell "SAW"... S... A... W
+
+#SAY.Flowchart.205.
+This is how you spell "ICE"... I... C... E
+
+#SAY.Flowchart.204.
+This is how you spell "BED"... B... E... D
+
+#SAY.Flowchart.203.
+This is how you spell "LOG"... L... O... G
+
+#SAY.Flowchart.202.
+This is how you spell "HAT"... H... A... T
+
+#SAY.Flowchart.201.
+This is how you spell "SUN"... S... U... N
+
+#SAY.Flowchart.200.
+This is how you spell "OWL"... O... W... L
+
+#SAY.Flowchart.65.
+This is how you spell "RAT"... R... A... T
+
+#SAY.Flowchart.40.
+This is how you spell "HUT"... H... U... T
+
+#SAY.Flowchart.6.
+This is how you spell "CUP"... C... U... P
+
+#SAY.Flowchart.16.
+That's not quite right try again.
+
+#SAY.Flowchart.37.
+That's not quite right try again.
+
+#SAY.Flowchart.39.
+That's not quite right try again.
+
+#SAY.Flowchart.99.
+That's not quite right try again.
+
+#SAY.Flowchart.101.
+That's not quite right try again.
+
+#SAY.Flowchart.103.
+That's not quite right try again.
+
+#SAY.Flowchart.161.
+Good job! Now you are ready for the spelling bee!
+
+#SAY.Flowchart.195.
+That's not quite right try again.
+
+#SAY.Flowchart.197.
+That's not quite right try again.
+
+#SAY.Flowchart.199.
+That's not quite right try again.
+
+#SAY.Flowchart.235.
+That's not quite right try again.
+
+#SAY.Flowchart.237.
+That's not quite right try again.
+
+#SAY.Flowchart.239.
+That's not quite right try again.
+
+#SAY.Flowchart.250.
+That's not quite right try again.
+
+#SAY.Flowchart.270.
+That's not quite right try again.
+
+#SAY.Flowchart.272.
+That's not quite right try again.
+
+#SAY.Flowchart.320.
+That's not quite right try again.
+
+#SAY.Flowchart.322.
+That's not quite right try again.
+
+#SAY.Flowchart.324.
+That's not quite right try again.
+
+#SAY.Flowchart.353.
+That's not quite right try again.
+
+#SAY.Flowchart.355.
+That's not quite right try again.
+
+#SAY.Flowchart.357.
+That's not quite right try again.
+
+#SAY.Flowchart.386.
+That's not quite right try again.
+
+#SAY.Flowchart.388.
+That's not quite right try again.
+
+#SAY.Flowchart.390.
+That's not quite right try again.
+
+#SAY.Flowchart.419.
+That's not quite right try again.
+
+#SAY.Flowchart.421.
+That's not quite right try again.
+
+#SAY.Flowchart.423.
+That's not quite right try again.
+
+#SAY.Flowchart.452.
+That's not quite right try again.
+
+#SAY.Flowchart.454.
+That's not quite right try again.
+
+#SAY.Flowchart.456.
+That's not quite right try again.
+
+#CHARACTER.Papa Bear
+Papa Bear
+

@@ -1,0 +1,36 @@
+#SAY.fc_story_intro.1.Mr Duck
+Ok, class remember that at the end of the year we will be having our spelling bee!
+
+#SAY.fc_story_intro.6.Pigme
+I'm going to be the best speller!
+
+#SAY.fc_story_intro.8.Rival Racoon
+No, I'm going to be the best speller!
+
+#SAY.fc_story_intro.9.Pigme
+It's on!
+
+#SAY.fc_story_intro.17.Papa Bear
+How was School? Anything interesting hapen?
+
+#SAY.fc_story_intro.18.Pigme
+I want to become the best speller and win the spelling bee! Please teach me!
+
+#SAY.fc_story_intro.19.Papa Bear
+Haha! Ok. It will be hard work. Are you ready for it?
+
+#SAY.fc_story_intro.20.Pigme
+I'm ready!
+
+#CHARACTER.Mr Duck
+Mr Duck
+
+#CHARACTER.Pigme
+Pigme
+
+#CHARACTER.Rival Racoon
+Rival Racoon
+
+#CHARACTER.Papa Bear
+Papa Bear
+

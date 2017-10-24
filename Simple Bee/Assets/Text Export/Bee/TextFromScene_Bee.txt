@@ -1,0 +1,201 @@
+#SAY.fc_bee.9.Mr Duck
+Welcome to the Spelling Bee!
+
+#SAY.fc_bee.1553.Mr Duck
+To win you have to spell 3 words correctly! Good luck!
+
+#SAY.fc_bee.6.
+Spell "CUP".
+
+#SAY.fc_bee.40.
+Spell "HUT".
+
+#SAY.fc_bee.65.
+Spell "RAT".
+
+#SAY.fc_bee.200.
+Spell "OWL".
+
+#SAY.fc_bee.201.
+Spell "SUN".
+
+#SAY.fc_bee.202.
+Spell "HAT".
+
+#SAY.fc_bee.203.
+Spell "LOG".
+
+#SAY.fc_bee.204.
+Spell "BED".
+
+#SAY.fc_bee.205.
+Spell "ICE".
+
+#SAY.fc_bee.206.
+Spell "SAW".
+
+#SAY.fc_bee.1556.Mr Duck
+Congratulations! You win!
+
+#SAY.fc_bee.1568.Pigme
+I win! I win! Yay!
+
+#SAY.fc_bee.1567.Rival Racoon
+Well done. But I will win next time!
+
+#MENU.fc_bee.1558
+Restart
+
+#MENU.fc_bee.1559
+Quit
+
+#SAY.fc_bee.547.Mr Duck
+Oh no! you lose! That's ok you can try again!
+
+#SAY.fc_bee.1573.Pigme
+Noooooo... I will try harder next time!
+
+#SAY.fc_bee.1574.Rival Racoon
+I win! Better luck next time.
+
+#MENU.fc_bee.549
+Restart
+
+#MENU.fc_bee.550
+Quit
+
+#SAY.Flowchart.9.
+In order for you to win the spelling bee you have to spell 10 words correctly. We will learn those words now. At the end there will be a test if you can spell all the words you will be ready for the spelling bee!
+
+#SAY.Flowchart.206.
+This is how you spell "SAW"... S... A... W
+
+#SAY.Flowchart.205.
+This is how you spell "ICE"... I... C... E
+
+#SAY.Flowchart.204.
+This is how you spell "BED"... B... E... D
+
+#SAY.Flowchart.203.
+This is how you spell "LOG"... L... O... G
+
+#SAY.Flowchart.202.
+This is how you spell "HAT"... H... A... T
+
+#SAY.Flowchart.201.
+This is how you spell "SUN"... S... U... N
+
+#SAY.Flowchart.200.
+This is how you spell "OWL"... O... W... L
+
+#SAY.Flowchart.65.
+This is how you spell "RAT"... R... A... T
+
+#SAY.Flowchart.40.
+This is how you spell "HUT"... H... U... T
+
+#SAY.Flowchart.6.
+This is how you spell "CUP"... C... U... P
+
+#CHARACTER.Mr Duck
+Mr Duck
+
+#CHARACTER.Pigme
+Pigme
+
+#CHARACTER.Rival Racoon
+Rival Racoon
+
+#SAY.Flowchart.16.
+That's not quite right try again.
+
+#SAY.Flowchart.37.
+That's not quite right try again.
+
+#SAY.Flowchart.39.
+That's not quite right try again.
+
+#SAY.Flowchart.99.
+That's not quite right try again.
+
+#SAY.Flowchart.101.
+That's not quite right try again.
+
+#SAY.Flowchart.103.
+That's not quite right try again.
+
+#SAY.Flowchart.161.
+Good job! Now you are ready for the spelling bee!
+
+#SAY.Flowchart.195.
+That's not quite right try again.
+
+#SAY.Flowchart.197.
+That's not quite right try again.
+
+#SAY.Flowchart.199.
+That's not quite right try again.
+
+#SAY.Flowchart.235.
+That's not quite right try again.
+
+#SAY.Flowchart.237.
+That's not quite right try again.
+
+#SAY.Flowchart.239.
+That's not quite right try again.
+
+#SAY.Flowchart.250.
+That's not quite right try again.
+
+#SAY.Flowchart.270.
+That's not quite right try again.
+
+#SAY.Flowchart.272.
+That's not quite right try again.
+
+#SAY.Flowchart.320.
+That's not quite right try again.
+
+#SAY.Flowchart.322.
+That's not quite right try again.
+
+#SAY.Flowchart.324.
+That's not quite right try again.
+
+#SAY.Flowchart.353.
+That's not quite right try again.
+
+#SAY.Flowchart.355.
+That's not quite right try again.
+
+#SAY.Flowchart.357.
+That's not quite right try again.
+
+#SAY.Flowchart.386.
+That's not quite right try again.
+
+#SAY.Flowchart.388.
+That's not quite right try again.
+
+#SAY.Flowchart.390.
+That's not quite right try again.
+
+#SAY.Flowchart.419.
+That's not quite right try again.
+
+#SAY.Flowchart.421.
+That's not quite right try again.
+
+#SAY.Flowchart.423.
+That's not quite right try again.
+
+#SAY.Flowchart.452.
+That's not quite right try again.
+
+#SAY.Flowchart.454.
+That's not quite right try again.
+
+#SAY.Flowchart.456.
+That's not quite right try again.
+
