@@ -108,6 +108,58 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &137477841
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114916205734974216, guid: 381e059ca222b73499d868ce84818909,
+        type: 2}
+      propertyPath: levelName
+      value: Credits
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 381e059ca222b73499d868ce84818909, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &137477842 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1343451057983576, guid: 381e059ca222b73499d868ce84818909,
+    type: 2}
+  m_PrefabInternal: {fileID: 137477841}
 --- !u!1 &143196592
 GameObject:
   m_ObjectHideFlags: 0
@@ -1989,6 +2041,7 @@ GameObject:
   - component: {fileID: 1472279024}
   - component: {fileID: 1472279025}
   - component: {fileID: 1472279026}
+  - component: {fileID: 1472279027}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -2009,11 +2062,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 306.10632, y: 147.84042}
+  scrollPos: {x: 344.5544, y: 73.55373}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.94000006
+  zoom: 1
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -2021,9 +2074,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1472279022}
-  selectedCommands:
-  - {fileID: 1472279026}
+  - {fileID: 1472279017}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -2049,8 +2101,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 67
-    y: 70
+    x: 132
+    y: 87
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2061,6 +2113,7 @@ MonoBehaviour:
   eventHandler: {fileID: 1472279021}
   commandList:
   - {fileID: 1472279025}
+  - {fileID: 1472279027}
   - {fileID: 1472279018}
 --- !u!114 &1472279018
 MonoBehaviour:
@@ -2137,8 +2190,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 66
-    y: -18.5
+    x: 131
+    y: -1.5
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -2166,7 +2219,7 @@ MonoBehaviour:
   waitForFrames: 1
 --- !u!114 &1472279024
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1472279015}
@@ -2187,7 +2240,7 @@ MonoBehaviour:
   setMenuDialog: {fileID: 0}
 --- !u!114 &1472279025
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1472279015}
@@ -2205,7 +2258,7 @@ MonoBehaviour:
   fadeTexture: {fileID: 0}
 --- !u!114 &1472279026
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1472279015}
@@ -2220,6 +2273,33 @@ MonoBehaviour:
   atTime: 0
   loop: 1
   fadeDuration: 1
+--- !u!114 &1472279027
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1472279015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 16
+  indentLevel: 0
+  description: 'Analytics: EndLevel'
+  targetObject: {fileID: 137477842}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: EndLevel
+  targetMethodText: 'EndLevel (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
 --- !u!1 &1668298361
 GameObject:
   m_ObjectHideFlags: 0

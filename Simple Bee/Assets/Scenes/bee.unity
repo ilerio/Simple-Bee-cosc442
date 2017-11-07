@@ -3453,6 +3453,26 @@ GameObject:
   - component: {fileID: 496319368}
   - component: {fileID: 496319372}
   - component: {fileID: 496319371}
+  - component: {fileID: 496319374}
+  - component: {fileID: 496319373}
+  - component: {fileID: 496319388}
+  - component: {fileID: 496319387}
+  - component: {fileID: 496319391}
+  - component: {fileID: 496319390}
+  - component: {fileID: 496319386}
+  - component: {fileID: 496319392}
+  - component: {fileID: 496319389}
+  - component: {fileID: 496319385}
+  - component: {fileID: 496319384}
+  - component: {fileID: 496319383}
+  - component: {fileID: 496319382}
+  - component: {fileID: 496319381}
+  - component: {fileID: 496319380}
+  - component: {fileID: 496319379}
+  - component: {fileID: 496319378}
+  - component: {fileID: 496319377}
+  - component: {fileID: 496319376}
+  - component: {fileID: 496319375}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -3473,11 +3493,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 999.6357, y: 170.58736}
+  scrollPos: {x: 1202.5547, y: 124.50662}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 328
-  zoom: 0.691522
+  zoom: 0.79000014
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -3485,9 +3505,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 496318768}
+  - {fileID: 496318502}
   selectedCommands:
-  - {fileID: 496319368}
+  - {fileID: 496319375}
   variables:
   - {fileID: 496318238}
   - {fileID: 496318489}
@@ -3581,9 +3601,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -975.11847
-    y: 112.9164
-    width: 120
+    x: -654.72156
+    y: 113.95646
+    width: 120.88606
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3594,10 +3614,12 @@ MonoBehaviour:
   commandList:
   - {fileID: 496319365}
   - {fileID: 496318244}
+  - {fileID: 496319374}
   - {fileID: 496318243}
   - {fileID: 496318242}
   - {fileID: 496318490}
   - {fileID: 496318241}
+  - {fileID: 496319373}
   - {fileID: 496319364}
   - {fileID: 496318770}
   - {fileID: 496318773}
@@ -3974,7 +3996,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -453.88632
     y: 534.45
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4393,7 +4415,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -302.7897
     y: 532.9623
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4619,7 +4641,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -303.9394
     y: 478.68326
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4652,7 +4674,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -762.1385
     y: 539.89215
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4699,7 +4721,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -761.9022
     y: 480.0692
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4746,7 +4768,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -913.2353
     y: 538.6077
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4793,7 +4815,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -910.5038
     y: 478.72916
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4840,7 +4862,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1063.2705
     y: 537.9733
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5066,7 +5088,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -306.75195
     y: 412.15237
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5292,7 +5314,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -602.535
     y: 535.2015
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5518,7 +5540,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -452.54077
     y: 477.3432
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5565,7 +5587,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1058.0991
     y: 479.5364
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5943,7 +5965,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -448.75552
     y: 412.14288
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6169,7 +6191,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -601.52155
     y: 478.15045
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6395,7 +6417,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -595.1857
     y: 412.7841
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6634,7 +6656,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 153.78741
     y: 528.8041
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7053,7 +7075,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -147.34363
     y: 531.0433
-    width: 154.11816
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7279,7 +7301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -146.3302
     y: 473.9926
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7697,7 +7719,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -137.22247
     y: 408.62625
-    width: 151.22598
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -7923,7 +7945,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1.3048706
     y: 530.2918
-    width: 152.67207
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8149,7 +8171,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 4.0363803
     y: 471.7994
-    width: 152.67207
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8514,7 +8536,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 6.435669
     y: 407.98505
-    width: 149.7799
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8740,7 +8762,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 148.43921
     y: 407.99454
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9024,7 +9046,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 151.25177
     y: 474.52542
-    width: 152.67207
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9524,6 +9546,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 496318500}
   commandList:
+  - {fileID: 496319375}
   - {fileID: 496318499}
   - {fileID: 496319350}
   - {fileID: 496319370}
@@ -12878,7 +12901,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 50.632805
     y: 1028.905
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13266,7 +13289,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -92.75678
     y: 1030.2815
-    width: 149.7799
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13544,7 +13567,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -236.41504
     y: 1029.5367
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13770,7 +13793,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -489.1015
     y: 1030.2909
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14022,7 +14045,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -632.4915
     y: 1030.2815
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14274,7 +14297,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -773.37885
     y: 1029.5367
-    width: 146.88773
+    width: 156.3291
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14500,7 +14523,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 54.831326
     y: 1094.0498
-    width: 161.34859
+    width: 163.92404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14576,7 +14599,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -764.7148
     y: 413.53833
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14625,7 +14648,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -908.1045
     y: 413.52884
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14674,7 +14697,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1053.1494
     y: 414.17004
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14821,7 +14844,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -341.45697
     y: 114.972755
-    width: 120
+    width: 122.151886
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14836,42 +14859,52 @@ MonoBehaviour:
   - {fileID: 496318643}
   - {fileID: 496318642}
   - {fileID: 496318757}
+  - {fileID: 496319385}
   - {fileID: 496318756}
   - {fileID: 496318755}
   - {fileID: 496318754}
   - {fileID: 496318753}
+  - {fileID: 496319384}
   - {fileID: 496318752}
   - {fileID: 496318751}
   - {fileID: 496318750}
   - {fileID: 496318749}
+  - {fileID: 496319383}
   - {fileID: 496318748}
   - {fileID: 496318747}
   - {fileID: 496318746}
   - {fileID: 496318745}
+  - {fileID: 496319382}
   - {fileID: 496318744}
   - {fileID: 496318743}
   - {fileID: 496318742}
   - {fileID: 496318741}
+  - {fileID: 496319381}
   - {fileID: 496318740}
   - {fileID: 496318739}
   - {fileID: 496318738}
   - {fileID: 496318737}
+  - {fileID: 496319380}
   - {fileID: 496318736}
   - {fileID: 496318735}
   - {fileID: 496318734}
   - {fileID: 496318733}
+  - {fileID: 496319379}
   - {fileID: 496318732}
   - {fileID: 496318731}
   - {fileID: 496318730}
   - {fileID: 496318729}
+  - {fileID: 496319378}
   - {fileID: 496318728}
   - {fileID: 496318727}
   - {fileID: 496318726}
   - {fileID: 496318725}
+  - {fileID: 496319377}
   - {fileID: 496318724}
   - {fileID: 496318723}
   - {fileID: 496318722}
   - {fileID: 496318721}
+  - {fileID: 496319376}
   - {fileID: 496318717}
   - {fileID: 496318720}
   - {fileID: 496318719}
@@ -15905,8 +15938,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 58.581467
-    y: 21.881826
+    x: 60.027546
+    y: 20.435743
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -15917,6 +15950,8 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 496318783}
+  - {fileID: 496319392}
+  - {fileID: 496319391}
   - {fileID: 496318782}
   - {fileID: 496318781}
   - {fileID: 496319368}
@@ -15928,6 +15963,7 @@ MonoBehaviour:
   - {fileID: 496319351}
   - {fileID: 496319353}
   - {fileID: 496319352}
+  - {fileID: 496319390}
   - {fileID: 496318779}
   - {fileID: 496318778}
 --- !u!114 &496318769
@@ -15943,8 +15979,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 50.329422
-    y: -41.931103
+    x: 51.77551
+    y: -40.485012
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -15956,6 +15992,8 @@ MonoBehaviour:
   commandList:
   - {fileID: 496319345}
   - {fileID: 496319367}
+  - {fileID: 496319389}
+  - {fileID: 496319388}
   - {fileID: 496319344}
   - {fileID: 496319340}
   - {fileID: 496319366}
@@ -15967,6 +16005,7 @@ MonoBehaviour:
   - {fileID: 496319360}
   - {fileID: 496319358}
   - {fileID: 496319357}
+  - {fileID: 496319387}
   - {fileID: 496319342}
   - {fileID: 496319341}
 --- !u!114 &496318770
@@ -16121,6 +16160,7 @@ MonoBehaviour:
   description: 
   eventHandler: {fileID: 0}
   commandList:
+  - {fileID: 496319386}
   - {fileID: 496318774}
 --- !u!114 &496318777
 MonoBehaviour:
@@ -16136,7 +16176,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 223.31892
-    y: 23.355011
+    y: 20.462841
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -16428,7 +16468,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -93.77014
     y: 1094.0957
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16654,7 +16694,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -242.75089
     y: 1094.903
-    width: 157.01033
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -16880,7 +16920,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -632.1188
     y: 1095.4816
-    width: 151.22598
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17106,7 +17146,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -490.4468
     y: 1095.4357
-    width: 149.7799
+    width: 157.59491
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17332,7 +17372,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -776.9426
     y: 1094.9028
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17558,7 +17598,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 54.595055
     y: 1149.7147
-    width: 161.34859
+    width: 163.92404
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -17784,7 +17824,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -93.729675
     y: 1151.2025
-    width: 157.01033
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18010,7 +18050,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -243.76431
     y: 1151.954
-    width: 157.01033
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18236,7 +18276,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -490.6831
     y: 1155.2593
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18462,7 +18502,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -633.46436
     y: 1153.9741
-    width: 151.22598
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18688,7 +18728,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -775.184
     y: 1153.3397
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18914,7 +18954,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 583.43805
     y: 736.46747
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19140,7 +19180,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 441.43405
     y: 736.458
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19366,7 +19406,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 295.00394
     y: 737.0992
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19592,7 +19632,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.8187
     y: 743.9688
-    width: 148.33382
+    width: 157.59491
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -19818,7 +19858,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -33.160587
     y: 744.77374
-    width: 151.22598
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20044,7 +20084,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 111.61492
     y: 744.7832
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20270,7 +20310,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -346.3481
     y: 748.94104
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20496,7 +20536,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -488.35165
     y: 748.9316
-    width: 149.7799
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20722,7 +20762,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -634.78186
     y: 749.57275
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20948,7 +20988,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -804.3109
     y: 750.327
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21174,7 +21214,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -947.7006
     y: 750.3175
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21400,7 +21440,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1092.7458
     y: 750.9587
-    width: 149.7799
+    width: 158.86075
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21626,7 +21666,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 587.6366
     y: 802.9984
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -21852,7 +21892,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 437.6488
     y: 800.2724
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22078,7 +22118,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 288.66812
     y: 802.46564
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22304,7 +22344,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.22473
     y: 806.6236
-    width: 151.22598
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22530,7 +22570,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -28.630074
     y: 807.2022
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22756,7 +22796,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 118.58534
     y: 807.1563
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22982,7 +23022,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -343.53555
     y: 814.08606
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23208,7 +23248,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -492.13693
     y: 814.132
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23434,7 +23474,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -641.1177
     y: 814.9393
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23660,7 +23700,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -950.0999
     y: 815.51794
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23886,7 +23926,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -801.49835
     y: 816.85803
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24112,7 +24152,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1099.0815
     y: 816.3252
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24338,7 +24378,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 588.7863
     y: 857.2772
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24564,7 +24604,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 436.30325
     y: 858.76495
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -24790,7 +24830,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 290.4266
     y: 859.5164
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25016,7 +25056,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -174.46626
     y: 866.44617
-    width: 151.22598
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25242,7 +25282,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -27.203705
     y: 864.3087
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25468,7 +25508,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 119.735054
     y: 862.82104
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25694,7 +25734,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -342.38586
     y: 869.75116
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -25920,7 +25960,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -493.48242
     y: 871.2389
-    width: 152.67207
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26146,7 +26186,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -642.1311
     y: 871.99036
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26372,7 +26412,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -801.7346
     y: 876.681
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26598,7 +26638,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -952.8314
     y: 875.3966
-    width: 155.56424
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26824,7 +26864,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1102.867
     y: 874.7622
-    width: 154.11816
+    width: 160.12656
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27050,7 +27090,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 628.38245
     y: 520.48834
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27276,7 +27316,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 624.4803
     y: 399.6788
-    width: 148.33382
+    width: 157.59491
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27502,7 +27542,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 627.2327
     y: 466.2097
-    width: 152.67207
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27728,7 +27768,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 481.0302
     y: 399.6693
-    width: 154.11816
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27954,7 +27994,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 475.8994
     y: 521.9761
-    width: 158.45642
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28180,7 +28220,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 477.24496
     y: 463.48367
-    width: 158.45642
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28406,7 +28446,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 337.37204
     y: 400.31052
-    width: 151.22598
+    width: 161.3924
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28632,7 +28672,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 328.2643
     y: 465.67688
-    width: 155.56424
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28858,7 +28898,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 328.63684
     y: 522.72754
-    width: 155.56424
+    width: 162.6582
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -29547,7 +29587,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &496319366
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29563,7 +29603,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &496319367
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29576,7 +29616,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &496319368
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29592,7 +29632,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &496319369
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29608,7 +29648,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &496319370
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29624,7 +29664,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &496319371
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29641,7 +29681,7 @@ MonoBehaviour:
   fadeDuration: 1
 --- !u!114 &496319372
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 496318233}
@@ -29656,6 +29696,733 @@ MonoBehaviour:
   atTime: 0
   loop: 1
   fadeDuration: 1
+--- !u!114 &496319373
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1588
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeEnd
+  targetMethodText: 'DialougeEnd (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319374
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1587
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeStart
+  targetMethodText: 'DialougeStart (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319375
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1606
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionEnd
+  targetMethodText: 'QuestionEnd (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: prev
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319376
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1605
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Saw
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319377
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1604
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Ice
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319378
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1603
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Bed
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319379
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1602
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Log
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319380
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1601
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Hat
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319381
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1600
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Sun
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319382
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1599
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Owl
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319383
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1598
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Rat
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319384
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1597
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Hut
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319385
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1596
+  indentLevel: 1
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: QuestionStart
+  targetMethodText: 'QuestionStart (String): Void'
+  methodParameters:
+  - objValue:
+      typeAssemblyname: System.String, mscorlib, Version=2.0.0.0, Culture=neutral,
+        PublicKeyToken=b77a5c561934e089
+      typeFullname: System.String
+      intValue: 0
+      boolValue: 0
+      floatValue: 0
+      stringValue: Cup
+      colorValue: {r: 0, g: 0, b: 0, a: 0}
+      gameObjectValue: {fileID: 0}
+      materialValue: {fileID: 0}
+      objectValue: {fileID: 0}
+      spriteValue: {fileID: 0}
+      textureValue: {fileID: 0}
+      vector2Value: {x: 0, y: 0}
+      vector3Value: {x: 0, y: 0, z: 0}
+    variableKey: 
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319386
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1593
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: EndLevel
+  targetMethodText: 'EndLevel (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319387
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1590
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeEnd
+  targetMethodText: 'DialougeEnd (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319388
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1589
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeStart
+  targetMethodText: 'DialougeStart (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319389
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1595
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: BeeWin
+  targetMethodText: 'BeeWin (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319390
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1592
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeEnd
+  targetMethodText: 'DialougeEnd (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319391
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1591
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeStart
+  targetMethodText: 'DialougeStart (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &496319392
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 496318233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 1594
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1492048773}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: BeeLose
+  targetMethodText: 'BeeLose (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
 --- !u!4 &500072174 stripped
 Transform:
   m_PrefabParentObject: {fileID: 4637737789800188, guid: 816875b1c4ae0374f8eeefc435144301,
@@ -36912,6 +37679,11 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
+--- !u!1 &1492048773 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1343451057983576, guid: 381e059ca222b73499d868ce84818909,
+    type: 2}
+  m_PrefabInternal: {fileID: 1999041626}
 --- !u!1 &1502235372
 GameObject:
   m_ObjectHideFlags: 0
@@ -39440,6 +40212,48 @@ MonoBehaviour:
   m_ChildForceExpandHeight: 0
   m_ChildControlWidth: 0
   m_ChildControlHeight: 0
+--- !u!1001 &1999041626
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 381e059ca222b73499d868ce84818909, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &1999666393
 GameObject:
   m_ObjectHideFlags: 0

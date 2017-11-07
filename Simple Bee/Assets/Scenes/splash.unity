@@ -108,6 +108,48 @@ NavMeshSettings:
     tileSize: 256
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &345600796
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 381e059ca222b73499d868ce84818909, type: 2}
+  m_IsPrefabParent: 0
 --- !u!1 &446014922
 GameObject:
   m_ObjectHideFlags: 0
@@ -199,6 +241,7 @@ GameObject:
   - component: {fileID: 960339544}
   - component: {fileID: 960339550}
   - component: {fileID: 960339551}
+  - component: {fileID: 960339552}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -233,7 +276,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 960339545}
   selectedCommands:
-  - {fileID: 960339551}
+  - {fileID: 960339552}
   variables: []
   description: 
   stepPause: 0
@@ -292,6 +335,7 @@ MonoBehaviour:
   - {fileID: 960339547}
   - {fileID: 960339550}
   - {fileID: 960339546}
+  - {fileID: 960339552}
   - {fileID: 960339544}
 --- !u!114 &960339546
 MonoBehaviour:
@@ -391,6 +435,38 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: aa949c6b85e8b814cba0ada2f28279e5, type: 3}
   volume: 1
   waitUntilFinished: 0
+--- !u!114 &960339552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 960339542}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 6
+  indentLevel: 0
+  description: 'Analytics: End Level'
+  targetObject: {fileID: 1178434488}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: EndLevel
+  targetMethodText: 'EndLevel (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!1 &1178434488 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1343451057983576, guid: 381e059ca222b73499d868ce84818909,
+    type: 2}
+  m_PrefabInternal: {fileID: 345600796}
 --- !u!1 &1307511615
 GameObject:
   m_ObjectHideFlags: 0

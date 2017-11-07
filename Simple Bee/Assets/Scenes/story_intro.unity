@@ -142,6 +142,9 @@ GameObject:
   - component: {fileID: 88139188}
   - component: {fileID: 88139187}
   - component: {fileID: 88139200}
+  - component: {fileID: 88139201}
+  - component: {fileID: 88139203}
+  - component: {fileID: 88139202}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -190,6 +193,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 88139200}
   - {fileID: 88139178}
+  - {fileID: 88139203}
   - {fileID: 88139180}
   - {fileID: 88139179}
   - {fileID: 88139184}
@@ -209,7 +213,9 @@ MonoBehaviour:
   - {fileID: 88139193}
   - {fileID: 88139192}
   - {fileID: 88139191}
+  - {fileID: 88139202}
   - {fileID: 88139188}
+  - {fileID: 88139201}
   - {fileID: 88139187}
 --- !u!114 &88139176
 MonoBehaviour:
@@ -238,7 +244,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 88139175}
   selectedCommands:
-  - {fileID: 88139195}
+  - {fileID: 88139200}
   variables: []
   description: 
   stepPause: 0
@@ -848,6 +854,87 @@ MonoBehaviour:
   atTime: 0
   loop: 1
   fadeDuration: 1
+--- !u!114 &88139201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 88139173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 26
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1787984518}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: EndLevel
+  targetMethodText: 'EndLevel (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &88139202
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 88139173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 28
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1787984518}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeEnd
+  targetMethodText: 'DialougeEnd (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
+--- !u!114 &88139203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 88139173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 27
+  indentLevel: 0
+  description: 
+  targetObject: {fileID: 1787984518}
+  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  targetComponentFullname: UnityEngine.Component[]
+  targetComponentText: AnalyticsController
+  targetMethod: DialougeStart
+  targetMethodText: 'DialougeStart (): Void'
+  methodParameters: []
+  saveReturnValue: 0
+  returnValueVariableKey: 
+  returnValueType: System.Void
+  showInherited: 0
+  callMode: 0
 --- !u!1001 &169639424
 Prefab:
   m_ObjectHideFlags: 0
@@ -1526,6 +1613,58 @@ MonoBehaviour:
     type: 2}
   m_PrefabInternal: {fileID: 931963592}
   m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+--- !u!1001 &1787984517
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 114916205734974216, guid: 381e059ca222b73499d868ce84818909,
+        type: 2}
+      propertyPath: levelName
+      value: StoryIntro
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 381e059ca222b73499d868ce84818909, type: 2}
+  m_IsPrefabParent: 0
+--- !u!1 &1787984518 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1343451057983576, guid: 381e059ca222b73499d868ce84818909,
+    type: 2}
+  m_PrefabInternal: {fileID: 1787984517}
 --- !u!114 &1961324114 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114930468717958098, guid: a0f2a316a404f1448aedd3c0533f3265,
