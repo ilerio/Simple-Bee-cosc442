@@ -14,7 +14,7 @@ It's on!
 How was School? Anything interesting hapen?
 
 #SAY.fc_story_intro.18.Pigme
-I want to become the best speller and win the spelling bee! Please teach me!
+I want to be the best speller and win the spelling bee! Please teach me!
 
 #SAY.fc_story_intro.19.Papa Bear
 Haha! Ok. It will be hard work. Are you ready for it?
@@ -22,8 +22,11 @@ Haha! Ok. It will be hard work. Are you ready for it?
 #SAY.fc_story_intro.20.Pigme
 I'm ready!
 
-#CHARACTER.Mr Duck
-Mr Duck
+#SAY._CommandCopyBuffer.1553.
+To win you have to spell {$diff_str} words correctly! Good luck!
+
+#CHARACTER.Papa Bear
+Papa Bear
 
 #CHARACTER.Pigme
 Pigme
@@ -31,6 +34,6 @@ Pigme
 #CHARACTER.Rival Racoon
 Rival Racoon
 
-#CHARACTER.Papa Bear
-Papa Bear
+#CHARACTER.Mr Duck
+Mr Duck
 

@@ -1356,8 +1356,6 @@ GameObject:
   - component: {fileID: 1297283954}
   - component: {fileID: 1297283946}
   - component: {fileID: 1297283951}
-  - component: {fileID: 1297283957}
-  - component: {fileID: 1297283956}
   m_Layer: 0
   m_Name: Main
   m_TagString: Untagged
@@ -1454,7 +1452,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1297283943}
   selectedCommands: []
   variables: []
   description: 
@@ -1615,7 +1614,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1297283955}
-  - {fileID: 1297283956}
   - {fileID: 1297283954}
 --- !u!114 &1297283953
 MonoBehaviour:
@@ -1642,7 +1640,6 @@ MonoBehaviour:
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 1297283950}
-  - {fileID: 1297283957}
   - {fileID: 1297283949}
 --- !u!114 &1297283954
 MonoBehaviour:
@@ -1680,60 +1677,6 @@ MonoBehaviour:
   waitUntilFinished: 1
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
---- !u!114 &1297283956
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1297283940}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 16
-  indentLevel: 0
-  description: 'Analytics: EndLevel'
-  targetObject: {fileID: 1393753736}
-  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
-    Culture=neutral, PublicKeyToken=null
-  targetComponentFullname: UnityEngine.Component[]
-  targetComponentText: AnalyticsController
-  targetMethod: EndLevel
-  targetMethodText: 'EndLevel (): Void'
-  methodParameters: []
-  saveReturnValue: 0
-  returnValueVariableKey: 
-  returnValueType: System.Void
-  showInherited: 0
-  callMode: 0
---- !u!114 &1297283957
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1297283940}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 688e35811870d403f9e2b1ab2a699d98, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 15
-  indentLevel: 0
-  description: 'Analytics: EndLevel'
-  targetObject: {fileID: 1393753736}
-  targetComponentAssemblyName: AnalyticsController, Assembly-CSharp, Version=0.0.0.0,
-    Culture=neutral, PublicKeyToken=null
-  targetComponentFullname: UnityEngine.Component[]
-  targetComponentText: AnalyticsController
-  targetMethod: EndLevel
-  targetMethodText: 'EndLevel (): Void'
-  methodParameters: []
-  saveReturnValue: 0
-  returnValueVariableKey: 
-  returnValueType: System.Void
-  showInherited: 0
-  callMode: 0
 --- !u!1 &1348781855
 GameObject:
   m_ObjectHideFlags: 0
@@ -1805,58 +1748,6 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1348781855}
---- !u!1001 &1393753735
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: -8
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4167517552129866, guid: 381e059ca222b73499d868ce84818909, type: 2}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 114916205734974216, guid: 381e059ca222b73499d868ce84818909,
-        type: 2}
-      propertyPath: levelName
-      value: MainMenue
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 381e059ca222b73499d868ce84818909, type: 2}
-  m_IsPrefabParent: 0
---- !u!1 &1393753736 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1343451057983576, guid: 381e059ca222b73499d868ce84818909,
-    type: 2}
-  m_PrefabInternal: {fileID: 1393753735}
 --- !u!1 &1396611482
 GameObject:
   m_ObjectHideFlags: 0
